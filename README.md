@@ -2,8 +2,8 @@
 
 Bad at programming but slowly working on it! 
 
-Currently working on, Andriod web app
-Learning c++ and js
+- Currently working on, Andriod web app
+- Learning c++ and js
 <!--
 **Core310/Core310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
