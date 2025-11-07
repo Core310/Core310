@@ -8,4 +8,4 @@ Currently, I'm working on robotics in several projects, though I'm still startin
 
 # Contact:
 - email in sidebar
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/293466689100578817)
+[![Discord Presence](https://lanyard.cnrad.dev/api/293466689100578817)](https://discord.com/users/293466689100578817)
