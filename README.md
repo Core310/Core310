@@ -1,4 +1,4 @@
-Heyo! [Website](https://core310.github.io/arika/)
+Heyo! [Website](https://somethingsomething.fyi/)
 
 I'm a heavy Obsidan user of which will (hopefully) publish my workflow soon.
 
